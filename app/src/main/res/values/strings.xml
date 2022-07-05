@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CustomAlertDialogEx</string>
+    <string name="battery_low">Battery low!</string>
+    <string name="battery_is_below_20_turn_on_battery_saver">Battery is below 20%
+        turn on battery saver?</string>
+    <string name="todo">TODO</string>
+</resources>
